@@ -10,4 +10,4 @@ Just download it and put the directory in centos under /var/www/html/name it as 
 
 You ARE DONE!! :) NJOY
 
-Source: http://findoutanswer.com
+Source: http://answergig.com
