@@ -17,6 +17,7 @@ a:hover {
 
 <body>
 <?php
+//TESTING	
 function read_folder_directory($dir)
 
     {
